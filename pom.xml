@@ -10,7 +10,7 @@
 
     <name>jwt-spring-security-demo</name>
     <description>Demo project for JWT with Spring Boot and Spring Security</description>
-
+    <!-- Test Commment -->
     <licenses>
         <license>
             <name>MIT license</name>
